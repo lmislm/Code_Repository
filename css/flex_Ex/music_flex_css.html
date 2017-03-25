@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        body {
+            height:100%;
+        }
+        body {
+            display: flex;
+            flex-direction: column;
+        }
+        main {
+            /*填满剩余空间 flex-grow 和flex-shrink 控制Flex项目在容器有多余
+            空间如何放大扩展，又如何缩小，
+            basis 指定Flex项目初始大小*/
+            /*flex: flex-grow flex-shrink flex-basix;*/
+            flex: 1 0 auto;
+        }
+        footer {
+            flex: 0 0 ;
+        }
+
+    </style>
+</head>
+<body>
+    <main></main>
+
+    <footer></footer>  <!-- 包含细节-->
+</body>
+</html>
