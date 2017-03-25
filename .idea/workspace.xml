@@ -21,7 +21,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/change_li_color/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
+            <state relative-caret-position="147">
               <caret line="9" column="21" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="21" />
               <folding />
             </state>
@@ -51,11 +51,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="music_flex_css.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="music_flex_css.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/flex_Ex/music_flex_css.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="236">
-              <caret line="21" column="22" lean-forward="false" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+            <state relative-caret-position="-84">
+              <caret line="155" column="33" lean-forward="false" selection-start-line="155" selection-start-column="33" selection-end-line="155" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -81,11 +81,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="flex_try_holygrail.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/css/flex_Ex/flex_try_holygrail.html">
+      <file leaf-file-name="basic_holygrail.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/flex_Ex/basic_holygrail.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-231">
-              <caret line="34" column="17" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+            <state relative-caret-position="168">
+              <caret line="59" column="29" lean-forward="false" selection-start-line="59" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/flex_Ex/test.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="98" column="10" lean-forward="true" selection-start-line="98" selection-start-column="10" selection-end-line="98" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="flex_holygrail.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/flex_Ex/flex_holygrail.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="257">
+              <caret line="97" column="7" lean-forward="false" selection-start-line="97" selection-start-column="7" selection-end-line="97" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -117,10 +137,13 @@
         <option value="$PROJECT_DIR$/css/change_li_color/READ.md" />
         <option value="$PROJECT_DIR$/css/flex_Ex/无序列表.html" />
         <option value="$PROJECT_DIR$/css/flex_Ex/index.html" />
-        <option value="$PROJECT_DIR$/css/flex_Ex/music_flex_css.html" />
         <option value="$PROJECT_DIR$/css/flex_Ex/mdn_flex_test.html" />
         <option value="$PROJECT_DIR$/css/flex_Ex/flex_try.html" />
         <option value="$PROJECT_DIR$/css/flex_Ex/flex_try_holygrail.html" />
+        <option value="$PROJECT_DIR$/css/flex_Ex/flex_holygrail.html" />
+        <option value="$PROJECT_DIR$/css/flex_Ex/basic_holygrail.html" />
+        <option value="$PROJECT_DIR$/css/flex_Ex/test.html" />
+        <option value="$PROJECT_DIR$/css/flex_Ex/music_flex_css.html" />
       </list>
     </option>
   </component>
@@ -131,10 +154,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="164" />
-    <option name="y" value="12" />
-    <option name="width" value="1370" />
-    <option name="height" value="724" />
+    <option name="x" value="587" />
+    <option name="y" value="154" />
+    <option name="width" value="717" />
+    <option name="height" value="780" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -196,6 +219,10 @@
               <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="change_li_color" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -210,20 +237,20 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
   </component>
-  <component name="RunManager" selected="JavaScript Debug.flex_try_holygrail.html">
-    <configuration default="false" name="无序列表.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Ex_2017/css/flex_Ex/无序列表.html">
-      <method />
-    </configuration>
-    <configuration default="false" name="music_flex_css.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Ex_2017/css/flex_Ex/music_flex_css.html">
-      <method />
-    </configuration>
-    <configuration default="false" name="mdn_flex_test.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Ex_2017/css/flex_Ex/mdn_flex_test.html">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JavaScript Debug.music_flex_css.html">
     <configuration default="false" name="flex_try.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Ex_2017/css/flex_Ex/flex_try.html">
       <method />
     </configuration>
-    <configuration default="false" name="flex_try_holygrail.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Ex_2017/css/flex_Ex/flex_try_holygrail.html">
+    <configuration default="false" name="basic_holygrail.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Ex_2017/css/flex_Ex/basic_holygrail.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="flex_holygrail.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Ex_2017/css/flex_Ex/flex_holygrail.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="test.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Ex_2017/css/flex_Ex/test.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="music_flex_css.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Ex_2017/css/flex_Ex/music_flex_css.html">
       <method />
     </configuration>
     <configuration default="true" type="ApexTest" factoryName="Apex Test">
@@ -289,19 +316,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.无序列表.html" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.music_flex_css.html" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.mdn_flex_test.html" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.flex_try.html" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.flex_try_holygrail.html" />
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.flex_try.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.basic_holygrail.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.flex_holygrail.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.test.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.music_flex_css.html" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.flex_try_holygrail.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.flex_try.html" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.mdn_flex_test.html" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.music_flex_css.html" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.无序列表.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.music_flex_css.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.test.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.basic_holygrail.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.flex_holygrail.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.flex_try.html" />
       </list>
     </recent_temporary>
   </component>
@@ -317,18 +344,18 @@
       <updated>1490309887987</updated>
       <workItem from="1490309890734" duration="507000" />
       <workItem from="1490310505185" duration="8990000" />
-      <workItem from="1490398128440" duration="16071000" />
+      <workItem from="1490398128440" duration="29513000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25568000" />
+    <option name="totallyTimeSpent" value="39010000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="164" y="12" width="1370" height="724" extended-state="0" />
-    <editor active="false" />
+    <frame x="587" y="154" width="717" height="780" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13288288" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" x="720" y="290" width="177" height="415" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26067746" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" x="720" y="290" width="177" height="415" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -338,7 +365,7 @@
       <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39763114" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36321485" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Salesforce" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -419,14 +446,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/change_li_color/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="21" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/change_li_color/READ.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -460,14 +479,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/flex_Ex/music_flex_css.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="21" column="22" lean-forward="false" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/flex_Ex/mdn_flex_test.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="488">
@@ -484,10 +495,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/flex_Ex/flex_try_holygrail.html">
+    <entry file="file://$PROJECT_DIR$/css/flex_Ex/flex_holygrail.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-231">
-          <caret line="34" column="17" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+        <state relative-caret-position="257">
+          <caret line="97" column="7" lean-forward="false" selection-start-line="97" selection-start-column="7" selection-end-line="97" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/flex_Ex/basic_holygrail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="59" column="29" lean-forward="false" selection-start-line="59" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/flex_Ex/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="98" column="10" lean-forward="true" selection-start-line="98" selection-start-column="10" selection-end-line="98" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/change_li_color/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="9" column="21" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/flex_Ex/music_flex_css.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-84">
+          <caret line="155" column="33" lean-forward="false" selection-start-line="155" selection-start-column="33" selection-end-line="155" selection-end-column="33" />
           <folding />
         </state>
       </provider>
