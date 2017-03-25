@@ -71,11 +71,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="flex_try.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="flex_try.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/flex_Ex/flex_try.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="89">
               <caret line="26" column="17" lean-forward="true" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="flex_try_holygrail.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/flex_Ex/flex_try_holygrail.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-231">
+              <caret line="34" column="17" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -110,6 +120,7 @@
         <option value="$PROJECT_DIR$/css/flex_Ex/music_flex_css.html" />
         <option value="$PROJECT_DIR$/css/flex_Ex/mdn_flex_test.html" />
         <option value="$PROJECT_DIR$/css/flex_Ex/flex_try.html" />
+        <option value="$PROJECT_DIR$/css/flex_Ex/flex_try_holygrail.html" />
       </list>
     </option>
   </component>
@@ -120,8 +131,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="732" />
-    <option name="y" value="91" />
+    <option name="x" value="151" />
+    <option name="y" value="87" />
     <option name="width" value="1370" />
     <option name="height" value="724" />
   </component>
@@ -144,6 +155,16 @@
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Ex_2017" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Ex_2017" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="Ex_2017" />
@@ -189,10 +210,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
   </component>
-  <component name="RunManager" selected="JavaScript Debug.flex_try.html">
-    <configuration default="false" name="index.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Ex_2017/css/flex_Ex/index.html">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JavaScript Debug.flex_try_holygrail.html">
     <configuration default="false" name="无序列表.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Ex_2017/css/flex_Ex/无序列表.html">
       <method />
     </configuration>
@@ -203,6 +221,9 @@
       <method />
     </configuration>
     <configuration default="false" name="flex_try.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Ex_2017/css/flex_Ex/flex_try.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="flex_try_holygrail.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Ex_2017/css/flex_Ex/flex_try_holygrail.html">
       <method />
     </configuration>
     <configuration default="true" type="ApexTest" factoryName="Apex Test">
@@ -268,19 +289,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.无序列表.html" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.music_flex_css.html" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.mdn_flex_test.html" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.flex_try.html" />
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.无序列表.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.music_flex_css.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.mdn_flex_test.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.flex_try.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.flex_try_holygrail.html" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.flex_try.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.mdn_flex_test.html" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.music_flex_css.html" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.无序列表.html" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.flex_try_holygrail.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.flex_try.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.mdn_flex_test.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.music_flex_css.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.无序列表.html" />
       </list>
     </recent_temporary>
   </component>
@@ -296,15 +317,15 @@
       <updated>1490309887987</updated>
       <workItem from="1490309890734" duration="507000" />
       <workItem from="1490310505185" duration="8990000" />
-      <workItem from="1490398128440" duration="2776000" />
+      <workItem from="1490398128440" duration="15430000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12273000" />
+    <option name="totallyTimeSpent" value="24927000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="732" y="91" width="1370" height="724" extended-state="0" />
+    <frame x="151" y="87" width="1370" height="724" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13288288" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" x="720" y="290" width="177" height="415" />
@@ -459,6 +480,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="89">
           <caret line="26" column="17" lean-forward="true" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/flex_Ex/flex_try_holygrail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-231">
+          <caret line="34" column="17" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
           <folding />
         </state>
       </provider>
