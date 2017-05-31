@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c15587f2-fd3b-4b96-8d5a-214465b7c3a3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/magnify/img/macbook-big.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/magnify/img/macbook-small.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/magnify/demo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/RatingBar/images/rating.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/RatingBar/images/rating01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/RatingBar/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -36,7 +36,7 @@
       <file leaf-file-name="music_flex_css.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/flex_Ex/music_flex_css.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3875">
+            <state relative-caret-position="25">
               <caret line="155" column="33" lean-forward="false" selection-start-line="155" selection-start-column="33" selection-end-line="155" selection-end-column="33" />
               <folding />
             </state>
@@ -55,61 +55,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="demo.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/js/magnify/demo.html">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/RatingBar/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="328">
-              <caret line="121" column="29" lean-forward="true" selection-start-line="121" selection-start-column="29" selection-end-line="121" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mdn_flex_test.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/flex_Ex/mdn_flex_test.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1375">
-              <caret line="55" column="7" lean-forward="false" selection-start-line="55" selection-start-column="7" selection-end-line="55" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="flex_try.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/flex_Ex/flex_try.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="650">
-              <caret line="26" column="17" lean-forward="false" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="basic_holygrail.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/flex_Ex/basic_holygrail.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1475">
-              <caret line="59" column="29" lean-forward="false" selection-start-line="59" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/flex_Ex/test.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2450">
-              <caret line="98" column="10" lean-forward="false" selection-start-line="98" selection-start-column="10" selection-end-line="98" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="flex_holygrail.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/flex_Ex/flex_holygrail.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2425">
-              <caret line="97" column="7" lean-forward="false" selection-start-line="97" selection-start-column="7" selection-end-line="97" selection-end-column="7" />
+            <state relative-caret-position="253">
+              <caret line="14" column="20" lean-forward="false" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -150,6 +100,7 @@
         <option value="$PROJECT_DIR$/js/magnify/magnify-放大镜.html" />
         <option value="$PROJECT_DIR$/js/magnify/index.html" />
         <option value="$PROJECT_DIR$/js/magnify/demo.html" />
+        <option value="$PROJECT_DIR$/css/RatingBar/index.html" />
       </list>
     </option>
   </component>
@@ -160,9 +111,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
+    <option name="x" value="-4" />
+    <option name="y" value="6" />
+    <option name="width" value="1370" />
     <option name="height" value="744" />
   </component>
   <component name="ProjectView">
@@ -180,6 +131,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -216,11 +169,33 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="magnify" />
+              <option name="myItemId" value="RatingBar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Ex_2017" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Ex_2017" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RatingBar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -240,8 +215,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -254,11 +227,13 @@
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\html_web_work\Ex_2017\js\magnify\img" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\html_web_work\Ex_2017\css\RatingBar\images" />
       <recent name="E:\html_web_work\Ex_2017\js\magnify" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\html_web_work\Ex_2017\css\RatingBar\images" />
+      <recent name="E:\html_web_work\Ex_2017\js\magnify\img" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -387,18 +362,27 @@
       <workItem from="1490398128440" duration="30100000" />
       <workItem from="1490445642487" duration="3050000" />
       <workItem from="1495937074388" duration="4080000" />
-      <workItem from="1496059109775" duration="2333000" />
+      <workItem from="1496059109775" duration="2440000" />
+      <workItem from="1496110782888" duration="1459000" />
+      <workItem from="1496217453754" duration="5810000" />
     </task>
+    <task id="LOCAL-00001" summary="magnify-from-muke">
+      <created>1496067803310</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1496067803310</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49060000" />
+    <option name="totallyTimeSpent" value="56436000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <frame x="-4" y="6" width="1370" height="744" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13020833" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" x="720" y="290" width="177" height="415" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1951952" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" x="720" y="290" width="177" height="415" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -434,14 +418,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css/flex_Ex/mdn_flex_test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1375">
-          <caret line="55" column="7" lean-forward="false" selection-start-line="55" selection-start-column="7" selection-end-line="55" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/flex_Ex/flex_try.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="650">
@@ -474,14 +450,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/magnify/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/js/magnify/index.html" />
     <entry file="file://$PROJECT_DIR$/css/change_li_color/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -774,9 +743,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/js/colsure.js" />
+    <entry file="file://$PROJECT_DIR$/demo/table.html" />
+    <entry file="file://$PROJECT_DIR$/demo/calendar.html" />
+    <entry file="file://$PROJECT_DIR$/js/magnify/magnify-放大镜.html" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.505/jqzoom.js" />
+    <entry file="file://$PROJECT_DIR$/js/magnify/index.html" />
+    <entry file="file://$PROJECT_DIR$/js/magnify/demo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="90" column="33" lean-forward="false" selection-start-line="90" selection-start-column="27" selection-end-line="90" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/flex_Ex/music_flex_css.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3875">
+        <state relative-caret-position="25">
           <caret line="155" column="33" lean-forward="false" selection-start-line="155" selection-start-column="33" selection-end-line="155" selection-end-column="33" />
           <folding />
         </state>
@@ -792,29 +775,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/colsure.js" />
-    <entry file="file://$PROJECT_DIR$/demo/table.html" />
-    <entry file="file://$PROJECT_DIR$/demo/calendar.html" />
-    <entry file="file://$PROJECT_DIR$/js/magnify/magnify-放大镜.html" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.505/jqzoom.js">
+    <entry file="file://$PROJECT_DIR$/css/RatingBar/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="52" lean-forward="true" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/magnify/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/magnify/demo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="121" column="29" lean-forward="true" selection-start-line="121" selection-start-column="29" selection-end-line="121" selection-end-column="29" />
+        <state relative-caret-position="253">
+          <caret line="14" column="20" lean-forward="false" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
           <folding />
         </state>
       </provider>
