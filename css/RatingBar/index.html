@@ -13,7 +13,7 @@
         }
         .rating {
             width:200px;
-            height: 26px;
+            height: 30px;
             margin: 100px auto;
         }
         .rating-item {
@@ -37,7 +37,31 @@
 </ul>
 <script src="http://apps.bdimg.com/libs/jquery/2.1.4/jquery.js"></script>
 <script>
-    console.log($)
+//    console.log($)
+    var num = 2,
+        $rating = $('#rating')
+        $item =  $rating.find('.rating-item')
+    //点亮
+    const lightOn = function () {
+       $item.each(function (index) {
+            if(index < num){
+                $(this).css('background-position','0 -32px');
+            }else {
+                $(this).css('background-position','0 10px');
+            }
+        });
+    };
+//    初始化
+   lightOn(num);
+//   事件绑定
+    $item.on('mouseover',function () {
+        lightOn($(this).index() + 1);
+    }).on('click',function () {
+        num = $(this).index() + 1;
+    });
+    $rating.on('mouseout',function () {
+        lightOn(num);
+    })
 </script>
 </body>
 </html>
