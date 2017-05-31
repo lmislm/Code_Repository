@@ -39,10 +39,10 @@
 <script>
 //    console.log($)
     var num = 2,
-        $rating = $('#rating')
+        $rating = $('#rating'),
         $item =  $rating.find('.rating-item')
     //点亮
-    const lightOn = function () {
+    var lightOn = function (num) {
        $item.each(function (index) {
             if(index < num){
                 $(this).css('background-position','0 -32px');
@@ -55,9 +55,11 @@
    lightOn(num);
 //   事件绑定
     $item.on('mouseover',function () {
-        lightOn($(this).index() + 1);
+        const n = $(this).index() + 1;
+        lightOn(n);
     }).on('click',function () {
         num = $(this).index() + 1;
+        console.log(num)
     });
     $rating.on('mouseout',function () {
         lightOn(num);
