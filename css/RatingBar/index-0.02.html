@@ -74,12 +74,21 @@
                 lightOn($item,num);
             });
         };
+//        jQuery插件
+        $.fn.extend({
+            rating:function(num) {
+                return this.each(function () {
+                    init(this, num);
+                })
+            }
+        });
             return {
                 init: init
             };
     })();
     rating.init('#rating',2);
-    rating.init('#rating2',3);
+//    rating.init('#rating2',3);
+    $('#rating2').rating(4);
 </script>
 </body>
 </html>

@@ -37,8 +37,8 @@
       <file leaf-file-name="index-0.02.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/RatingBar/index-0.02.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="68" column="6" lean-forward="true" selection-start-line="68" selection-start-column="6" selection-end-line="68" selection-end-column="6" />
+            <state relative-caret-position="189">
+              <caret line="84" column="10" lean-forward="false" selection-start-line="84" selection-start-column="10" selection-end-line="84" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -99,7 +99,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="677" />
+    <option name="x" value="660" />
+    <option name="y" value="28" />
     <option name="width" value="1186" />
     <option name="height" value="730" />
   </component>
@@ -321,7 +322,7 @@
       <workItem from="1496110782888" duration="1459000" />
       <workItem from="1496217453754" duration="5863000" />
       <workItem from="1496240110654" duration="3921000" />
-      <workItem from="1496308864963" duration="4164000" />
+      <workItem from="1496308864963" duration="4731000" />
     </task>
     <task id="LOCAL-00001" summary="magnify-from-muke">
       <created>1496067803310</created>
@@ -372,16 +373,23 @@
       <option name="project" value="LOCAL" />
       <updated>1496311980488</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="优化函数多次声明">
+      <created>1496314331976</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1496314331976</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64574000" />
+    <option name="totallyTimeSpent" value="65141000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="677" y="0" width="1186" height="730" extended-state="0" />
+    <frame x="660" y="28" width="1186" height="730" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14982578" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" x="720" y="290" width="177" height="415" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14982578" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" x="720" y="290" width="177" height="415" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -416,7 +424,8 @@
     <MESSAGE value="RatingBar第一个版本" />
     <MESSAGE value="改变目录中结构" />
     <MESSAGE value="封装" />
-    <option name="LAST_COMMIT_MESSAGE" value="封装" />
+    <MESSAGE value="优化函数多次声明" />
+    <option name="LAST_COMMIT_MESSAGE" value="优化函数多次声明" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -776,8 +785,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/RatingBar/index-0.02.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="68" column="6" lean-forward="true" selection-start-line="68" selection-start-column="6" selection-end-line="68" selection-end-column="6" />
+        <state relative-caret-position="189">
+          <caret line="84" column="10" lean-forward="false" selection-start-line="84" selection-start-column="10" selection-end-line="84" selection-end-column="10" />
           <folding />
         </state>
       </provider>
