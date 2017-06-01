@@ -46,36 +46,38 @@
 <script>
     var rating = (function () {
         //    console.log($)
-        //点亮
+
         var init = function (el, num) {
             var $rating = $(el),
                 $item = $rating.find('.rating-item');
+            //点亮
             var lightOn = function (num) {
                 $item.each(function (index) {
-                    if(index < num){
-                        $(this).css('background-position','0 -32px');
-                    }else {
-                        $(this).css('background-position','0 10px');
+                    if (index < num) {
+                        $(this).css('background-position', '0 -32px');
+                    } else {
+                        $(this).css('background-position', '0 10px');
                     }
                 });
             };
-            // 初始化
+
             lightOn(num);
             //   事件绑定
 //    事件委托,子元素委托给父元素
-            $rating.on('mouseover','.rating-item',function () {
+            $rating.on('mouseover', '.rating-item', function () {
                 const n = $(this).index() + 1;
                 lightOn(n);
 //        事件
-            }).on('click','.rating-item',function () {
+            }).on('click', '.rating-item', function () {
                 num = $(this).index() + 1;
                 console.log(num)
+            }).on('mouseout', function () {
+                lightOn(num);
             });
         };
-        return {
-            init:init
-        };
-
+            return {
+                init: init
+            };
     })();
     rating.init('#rating',2);
     rating.init('#rating2',3);
