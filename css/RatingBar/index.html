@@ -44,6 +44,12 @@
 </ul>
 <script src="http://apps.bdimg.com/libs/jquery/2.1.4/jquery.js"></script>
 <script>
+    /*
+    * mode:LightEntire,点亮整颗模式，
+    *      LightHalf,点亮半颗模式，
+    *
+    * num ：起始棵，默认2和2.5；
+    * */
     var rating = (function () {
         //点亮整颗
         var LightEntire = function (el, options) {
@@ -54,7 +60,7 @@
         LightEntire.prototype.init = function () {
             this.lightOn(this.opts.num);
             if(!this.opts.readOnly){
-            this.bindEvent();
+                this.bindEvent();
             }
         }
         LightEntire.prototype.lightOn = function (num) {
@@ -69,7 +75,7 @@
         }
         LightEntire.prototype.bindEvent = function () {
             var self = this;
-                itemLength = self.$item.length
+            itemLength = self.$item.length
 
             self.$el.on('mouseover', '.rating-item', function () {
                 var num = $(this).index() + 1;
@@ -85,17 +91,77 @@
                 self.lightOn(self.opts.num);
             });
         }
+        //点亮半颗
+        var LightHalf = function (el, options) {
+            this.$el = $(el);
+            this.$item = this.$el.find('.rating-item');
+            this.opts = options;
+            this.add = 1;
+        };
+        LightHalf.prototype.init = function () {
+            this.lightOn(this.opts.num);
+            if(!this.opts.readOnly){
+            this.bindEvent();
+            }
+        }
+        LightHalf.prototype.lightOn = function (num) {
+            var count = parseInt(num),
+                isHalf = count !== num;
+//            num = parseInt(num);
+            this.$item.each(function (index) {
+                if (index < num) {
+                    $(this).css('background-position', '0 -32px');
+                } else {
+                    $(this).css('background-position', '0 10px');
+                }
+            });
+            if(isHalf)
+                this.$item.eq(count).css('background-position','0 -72px');
+        }
+        LightHalf.prototype.bindEvent = function () {
+            var self = this;
+                itemLength = self.$item.length
+
+            self.$el.on('mousemove', '.rating-item', function (e) {
+                var $this = $(this),
+                    num = 0;
+                if(e.pageX - $this.offset().left < $this.width()/2){
+                    self.add = 0.5;
+                }else {
+                    self.add = 1;
+                }
+                num = $this.index() + self.add;
+                self.lightOn(num);
+
+                (typeof self.opts.select === 'function')&&self.opts.select.call(this, num, itemLength);
+                self.$el.trigger('select',[num, itemLength]);
+            }).on('click', '.rating-item', function () {
+                self.opts.num = $(this).index() + self.add;
+                (typeof self.opts.chosen === 'function')&&self.opts.chosen.call(this, self.opts.num, itemLength);
+                self.$el.trigger('chosen',[self.opts.num, itemLength]);
+            }).on('mouseout', function () {
+                self.lightOn(self.opts.num);
+            });
+        }
         //默认参数
         var defaults = {
+            mode: 'LightEntire',
             num:0,
             readOnly: false,
             select:function () {},
             chosen:function (){}
         }
+        var mode = {
+            'LightEntire':LightEntire,
+            'LightHalf': LightHalf
+        }
         //init
         var init = function (el,options) {
                 options = $.extend({},defaults,options)
-                new LightEntire(el,options).init();
+            //模式的容错机制,默认为点亮整颗
+                if(!mode[options.mode])
+                    options.mode = 'LightEntire';
+                new mode[options.mode](el,options).init();
         };
         return {
             init:init
@@ -103,18 +169,19 @@
     })();
 
     rating.init('#rating',{
-        //多个值
-        num:2,
-//        select: function (num,total) {
-//            console.log(this)
-//            console.log(num + '/' + total);
-//        }
+        mode:'LightEntire',
+//        num:2,
+        num:2.5,
+        select: function (num,total) {
+            console.log(this)
+            console.log(num + '/' + total);
+        }
     });
-    $('#rating').on('select',function (e, num, total) {
-        console.log(num + '/' +total);
-    }).on('chosen',function (e, num, total) {
-        console.log(num + '/' +total);
-    })
+//    $('#rating').on('select',function (e, num, total) {
+//        console.log(num + '/' +total);
+//    }).on('chosen',function (e, num, total) {
+//        console.log(num + '/' +total);
+//    })
 //    var rating = (function () {
 //        var lightOn = function ($item,num) {
 //            $item.each(function (index) {
