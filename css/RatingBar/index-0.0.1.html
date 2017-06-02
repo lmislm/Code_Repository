@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>RatingBar</title>
+    <style>
+        body,ul,li {
+            margin:0px;
+            padding: 0px;
+        }
+        li {
+            list-style-type: none;
+        }
+        .rating {
+            width:200px;
+            height: 30px;
+            margin: 100px auto;
+        }
+        .rating-item {
+            float: left;
+            width: 30px;
+            height: 30px;
+            padding: 5px;
+            background: url("images/rating01.png") no-repeat;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+
+<ul class="rating" id="rating">
+    <li class="rating-item" title="很不好"></li>
+    <li class="rating-item" title="不好"></li>
+    <li class="rating-item" title="一般"></li>
+    <li class="rating-item" title="好"></li>
+    <li class="rating-item" title="很好"></li>
+</ul>
+<script src="http://apps.bdimg.com/libs/jquery/2.1.4/jquery.js"></script>
+<script>
+//    console.log($)
+    var num = 2,
+        $rating = $('#rating'),
+        $item =  $rating.find('.rating-item');
+    //点亮
+    var lightOn = function (num) {
+       $item.each(function (index) {
+            if(index < num){
+                $(this).css('background-position','0 -32px');
+            }else {
+                $(this).css('background-position','0 10px');
+            }
+        });
+    };
+//    初始化
+   lightOn(num);
+//   事件绑定
+    $item.on('mouseover',function () {
+        const n = $(this).index() + 1;
+        lightOn(n);
+    }).on('click',function () {
+        num = $(this).index() + 1;
+        console.log(num)
+    });
+    $rating.on('mouseout',function () {
+        lightOn(num);
+    })
+</script>
+</body>
+</html>
