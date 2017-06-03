@@ -111,7 +111,9 @@
         Light.prototype.select = function () {
             throw new Error('子类必须重写此方法');
         };
-
+        Light.prototype.unbindEvent = function () {
+            this.$el.off();
+        }
         //点亮整颗
         var LightEntire = function (el, options) {
             Light.call(this,el,options)
@@ -159,12 +161,20 @@
             'LightHalf': LightHalf
         }
         //init
-        var init = function (el,options) {
-                options = $.extend({},defaults,options)
-            //模式的容错机制,默认为点亮整颗
+        var init = function (el,option) {
+            var $el = $(el),
+            rating = $el.data('rating'),
+                //将el变成jQuery对象
+                options = $.extend({},defaults,typeof option === 'object' &&option);
+
+               //模式的容错机制,默认为点亮整颗
                 if(!mode[options.mode])
                     options.mode = 'LightEntire';
-                new mode[options.mode](el,options).init();
+                if(!rating){
+                    $el.data('rating',(rating = new mode[options.mode](el,options)))
+                    rating.init();
+                }
+                if(typeof option === 'string') rating[option]();
         };
         return {
             init:init
@@ -175,9 +185,15 @@
         mode:'LightHalf',
 //        num:2,
         num:2.5,
-        select: function (num,total) {
-            console.log(this)
-            console.log(num + '/' + total);
+//        select: function (num,total) {
+//            console.log(this)
+//            console.log(num + '/' + total);
+//        }
+//        将绑定方法解除绑定
+        chosen:function () {
+            rating.init('#rating','unbindEvent');
+            //问题
+//            每次调用都会实例化多次
         }
     });
 //    $('#rating').on('select',function (e, num, total) {
