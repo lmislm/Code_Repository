@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c15587f2-fd3b-4b96-8d5a-214465b7c3a3" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/RatingBar/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/RatingBar/index.html" afterPath="$PROJECT_DIR$/css/RatingBar/index.html" />
     </list>
@@ -47,11 +48,10 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/RatingBar/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1431">
-              <caret line="114" column="27" lean-forward="false" selection-start-line="114" selection-start-column="27" selection-end-line="114" selection-end-column="27" />
+            <state relative-caret-position="25">
+              <caret line="190" column="12" lean-forward="false" selection-start-line="190" selection-start-column="12" selection-end-line="190" selection-end-column="12" />
               <folding>
                 <element signature="e#4291#4572#0" expanded="false" />
-                <element signature="e#6160#6217#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -119,6 +119,7 @@
         <option value="$PROJECT_DIR$/css/RatingBar/index-0.02.html" />
         <option value="$PROJECT_DIR$/css/RatingBar/index-1.0.0.html" />
         <option value="$PROJECT_DIR$/css/RatingBar/index.html" />
+        <option value="$PROJECT_DIR$/css/RatingBar/README.md" />
       </list>
     </option>
   </component>
@@ -129,9 +130,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="676" />
-    <option name="width" value="697" />
-    <option name="height" value="735" />
+    <option name="x" value="12" />
+    <option name="width" value="1370" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -148,8 +149,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -353,7 +354,9 @@
       <workItem from="1496240110654" duration="3921000" />
       <workItem from="1496308864963" duration="9355000" />
       <workItem from="1496364822279" duration="4017000" />
-      <workItem from="1496478118735" duration="7347000" />
+      <workItem from="1496478118735" duration="8473000" />
+      <workItem from="1496487266409" duration="587000" />
+      <workItem from="1496539586546" duration="27000" />
     </task>
     <task id="LOCAL-00001" summary="magnify-from-muke">
       <created>1496067803310</created>
@@ -439,11 +442,18 @@
       <option name="project" value="LOCAL" />
       <updated>1496482672163</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="点击之后不可重选">
+      <created>1496485729385</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1496485729385</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="81129000" />
+    <option name="totallyTimeSpent" value="82869000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -455,9 +465,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="676" y="0" width="697" height="735" extended-state="0" />
+    <frame x="12" y="0" width="1370" height="744" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18664643" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" x="720" y="290" width="177" height="415" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09159159" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" x="720" y="290" width="177" height="415" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32871974" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32871974" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32885906" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -523,7 +533,8 @@
     <MESSAGE value="设计模式" />
     <MESSAGE value="添加半颗星星方法，并加容错模式" />
     <MESSAGE value="抽象出父类" />
-    <option name="LAST_COMMIT_MESSAGE" value="抽象出父类" />
+    <MESSAGE value="点击之后不可重选" />
+    <option name="LAST_COMMIT_MESSAGE" value="点击之后不可重选" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -532,13 +543,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css/flex_Ex/test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2450">
-          <caret line="98" column="10" lean-forward="true" selection-start-line="98" selection-start-column="10" selection-end-line="98" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/flex_Ex/flex_holygrail.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2425">
@@ -688,17 +692,17 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/change_li_color/READ.md">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
-        </state>
-      </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -864,13 +868,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/RatingBar/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="125">
+            <caret line="5" column="8" lean-forward="false" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/RatingBar/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1431">
-          <caret line="114" column="27" lean-forward="false" selection-start-line="114" selection-start-column="27" selection-end-line="114" selection-end-column="27" />
+        <state relative-caret-position="25">
+          <caret line="190" column="12" lean-forward="false" selection-start-line="190" selection-start-column="12" selection-end-line="190" selection-end-column="12" />
           <folding>
             <element signature="e#4291#4572#0" expanded="false" />
-            <element signature="e#6160#6217#0" expanded="false" />
           </folding>
         </state>
       </provider>

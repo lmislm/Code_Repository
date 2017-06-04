@@ -176,26 +176,48 @@
                 }
                 if(typeof option === 'string') rating[option]();
         };
+        //jQuery插件
+        $.fn.extend({
+            rating:function (option) {
+                return this.each(function () {
+                    init(this,option);
+                })
+            }
+        })
         return {
             init:init
         };
     })();
-
-    rating.init('#rating',{
-        mode:'LightHalf',
-//        num:2,
-        num:2.5,
-//        select: function (num,total) {
-//            console.log(this)
-//            console.log(num + '/' + total);
-//        }
-//        将绑定方法解除绑定
-        chosen:function () {
-            rating.init('#rating','unbindEvent');
-            //问题
-//            每次调用都会实例化多次
-        }
+//jQuery方法测试
+    //整颗选
+    $('#rating').rating({
+            mode:'LightEntire',
+            num:2,
     });
+    //半颗半颗选，选中之后不能继续选
+    $('#rating2').rating({
+            mode:'LightHalf',
+            num:1.5,
+    });
+    //解除绑定方法
+    $('#rating2').on('chosen',function () {
+        $('#rating2').rating('unbindEvent');
+    })
+//    rating.init('#rating',{
+//        mode:'LightHalf',
+////        num:2,
+//        num:2.5,
+////        select: function (num,total) {
+////            console.log(this)
+////            console.log(num + '/' + total);
+////        }
+////        将绑定方法解除绑定
+//        chosen:function () {
+//            rating.init('#rating','unbindEvent');
+//            //问题
+////            每次调用都会实例化多次
+//        }
+//    });
 //    $('#rating').on('select',function (e, num, total) {
 //        console.log(num + '/' +total);
 //    }).on('chosen',function (e, num, total) {
