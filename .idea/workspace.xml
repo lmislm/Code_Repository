@@ -5,140 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c15587f2-fd3b-4b96-8d5a-214465b7c3a3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/js/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.2.3.3@requirejs/.npminstall.done" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.2.3.3@requirejs/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.2.3.3@requirejs/bin/r.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.2.3.3@requirejs/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.2.3.3@requirejs/require.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/.npminstall.done" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/AUTHORS.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/dist/core.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/dist/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/dist/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/dist/jquery.min.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/dist/jquery.slim.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/dist/jquery.slim.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/dist/jquery.slim.min.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/external/sizzle/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/external/sizzle/dist/sizzle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/external/sizzle/dist/sizzle.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/external/sizzle/dist/sizzle.min.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/.eslintrc.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/ajax.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/ajax/jsonp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/ajax/load.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/ajax/parseXML.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/ajax/script.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/ajax/var/location.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/ajax/var/nonce.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/ajax/var/rquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/ajax/xhr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/attributes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/attributes/attr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/attributes/classes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/attributes/prop.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/attributes/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/attributes/val.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/callbacks.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/core.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/core/DOMEval.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/core/access.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/core/init.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/core/nodeName.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/core/parseHTML.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/core/ready-no-deferred.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/core/ready.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/core/readyException.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/core/stripAndCollapse.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/core/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/core/var/rsingleTag.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/css.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/css/addGetHookIf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/css/adjustCSS.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/css/curCSS.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/css/hiddenVisibleSelectors.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/css/showHide.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/css/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/css/var/cssExpand.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/css/var/getStyles.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/css/var/isHiddenWithinTree.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/css/var/rmargin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/css/var/rnumnonpx.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/css/var/swap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/data/Data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/data/var/acceptData.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/data/var/dataPriv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/data/var/dataUser.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/deferred.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/deferred/exceptionHook.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/deprecated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/dimensions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/effects.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/effects/Tween.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/effects/animatedSelector.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/event.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/event/ajax.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/event/alias.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/event/focusin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/event/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/event/trigger.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/exports/amd.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/exports/global.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/manipulation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/manipulation/_evalUrl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/manipulation/buildFragment.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/manipulation/getAll.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/manipulation/setGlobalEval.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/manipulation/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/manipulation/var/rcheckableType.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/manipulation/var/rscriptType.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/manipulation/var/rtagName.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/manipulation/wrapMap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/offset.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/queue.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/queue/delay.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/selector-native.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/selector-sizzle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/selector.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/serialize.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/traversing.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/traversing/findFilter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/traversing/var/dir.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/traversing/var/rneedsContext.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/traversing/var/siblings.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/var/ObjectFunctionString.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/var/arr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/var/class2type.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/var/concat.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/var/document.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/var/documentElement.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/var/fnToString.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/var/getProto.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/var/hasOwn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/var/indexOf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/var/pnum.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/var/push.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/var/rcssNum.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/var/rnothtmlwhite.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/var/slice.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/var/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/var/toString.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.3.2.1@jquery/src/wrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.bin/r.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.bin/r.js.cmd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.bin/r_js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/node_modules/.bin/r_js.cmd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/require.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/images/toolbar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/images/toolbar_img.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/index-css-spriteMeathod.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -192,18 +61,29 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/sidebar/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
+            <state relative-caret-position="165">
               <caret line="8" column="66" lean-forward="false" selection-start-line="8" selection-start-column="66" selection-end-line="8" selection-end-column="66" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index-css-spriteMeathod.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/sidebar/index-css-spriteMeathod.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="10" column="40" lean-forward="false" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+              <caret line="14" column="40" lean-forward="false" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/sidebar/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="9" column="48" lean-forward="false" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+            <state relative-caret-position="75">
+              <caret line="5" column="12" lean-forward="false" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
               <folding>
                 <element signature="e#0#48#0" expanded="false" />
               </folding>
@@ -239,8 +119,8 @@
         <option value="CSS File" />
         <option value="Sass File" />
         <option value="SCSS File" />
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -294,6 +174,7 @@
         <option value="$PROJECT_DIR$/css/sidebar/js.js" />
         <option value="$PROJECT_DIR$/css/sidebar/js/main.js" />
         <option value="$PROJECT_DIR$/css/sidebar/index.html" />
+        <option value="$PROJECT_DIR$/css/sidebar/index-css-spriteMeathod.html" />
       </list>
     </option>
   </component>
@@ -307,8 +188,8 @@
     <handled-path value="$PROJECT_DIR$/css/sidebar/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-32" />
-    <option name="y" value="74" />
+    <option name="x" value="-18" />
+    <option name="y" value="1" />
     <option name="width" value="1370" />
     <option name="height" value="746" />
   </component>
@@ -424,15 +305,16 @@
     <property name="list.type.of.created.stylesheet" value="SCSS" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\html_web_work\Ex_2017\css\sidebar\images" />
+      <recent name="E:\html_web_work\Ex_2017\css\sidebar" />
+      <recent name="E:\html_web_work\Ex_2017\css\RatingBar\images" />
+      <recent name="E:\html_web_work\Ex_2017\js\magnify\img" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\html_web_work\Ex_2017\js" />
       <recent name="E:\html_web_work\Ex_2017\css\RatingBar\images" />
       <recent name="E:\html_web_work\Ex_2017\js\magnify" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\html_web_work\Ex_2017\css\sidebar" />
-      <recent name="E:\html_web_work\Ex_2017\css\RatingBar\images" />
-      <recent name="E:\html_web_work\Ex_2017\js\magnify\img" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -576,7 +458,7 @@
       <workItem from="1496583163117" duration="1154000" />
       <workItem from="1496584406841" duration="89000" />
       <workItem from="1496584599656" duration="2158000" />
-      <workItem from="1496661762166" duration="21000" />
+      <workItem from="1496661762166" duration="3371000" />
     </task>
     <task id="LOCAL-00001" summary="magnify-from-muke">
       <created>1496067803310</created>
@@ -683,11 +565,18 @@
       <option name="project" value="LOCAL" />
       <updated>1496580874997</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="敲定结构:alarm_clock:">
+      <created>1496661922014</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1496661922014</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="88871000" />
+    <option name="totallyTimeSpent" value="92221000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -699,9 +588,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-32" y="74" width="1370" height="746" extended-state="0" />
+    <frame x="-18" y="1" width="1370" height="746" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16816817" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" x="720" y="290" width="177" height="415" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16816817" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" x="720" y="290" width="177" height="415" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32871974" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32871974" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32885906" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -769,7 +658,8 @@
     <MESSAGE value="点击之后不可重选" />
     <MESSAGE value="jQuery插件" />
     <MESSAGE value=":smile: change directory" />
-    <option name="LAST_COMMIT_MESSAGE" value=":smile: change directory" />
+    <MESSAGE value="敲定结构:alarm_clock:" />
+    <option name="LAST_COMMIT_MESSAGE" value="敲定结构:alarm_clock:" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -778,13 +668,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css/flex_Ex/basic_holygrail.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1239">
-          <caret line="59" column="29" lean-forward="false" selection-start-line="59" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/flex_Ex/test.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2058">
@@ -1027,6 +910,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1050,21 +934,30 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sidebar/js.js" />
+    <entry file="file://$PROJECT_DIR$/css/sidebar/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="12" lean-forward="false" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#48#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/sidebar/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
+        <state relative-caret-position="165">
           <caret line="8" column="66" lean-forward="false" selection-start-line="8" selection-start-column="66" selection-end-line="8" selection-end-column="66" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/sidebar/js/main.js">
+    <entry file="file://$PROJECT_DIR$/css/sidebar/index-css-spriteMeathod.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="9" column="48" lean-forward="false" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
-          <folding>
-            <element signature="e#0#48#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="240">
+          <caret line="10" column="40" lean-forward="false" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+          <caret line="14" column="40" lean-forward="false" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
+          <folding />
         </state>
       </provider>
     </entry>
