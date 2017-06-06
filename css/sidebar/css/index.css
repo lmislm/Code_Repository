@@ -1,3 +1,7 @@
+.toolbar-item, .toolbar-layer {
+  background-image: url("../images/toolbar.png");
+  background-repeat: no-repeat; }
+
 .toolbar {
   position: fixed;
   left: 50%;
@@ -9,14 +13,20 @@
   display: block;
   width: 52px;
   height: 52px;
-  background-image: url("../images/toolbar.png");
-  background-repeat: no-repeat;
   margin-top: 1px;
+  -webkit-transition: background-position 1s;
+  -moz-transition: background-position 1s;
+  -ms-transition: background-position 1s;
+  -o-transition: background-position 1s;
   transition: background-position 1s; }
   .toolbar-item:hover .toolbar-layer {
     opacity: 1;
-    -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=100);
-    filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=100);
+    -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=$opacity * 100);
+    filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=$opacity * 100);
+    -webkit-transform: scale(1);
+    -moz-transform: scale(1);
+    -ms-transform: scale(1);
+    -o-transform: scale(1);
     transform: scale(1); }
 
 .toolbar-item-weixin {
@@ -50,13 +60,23 @@
   right: 46px;
   bottom: -10px;
   width: 172px;
-  background-image: url("../images/toolbar.png");
-  background-repeat: no-repeat;
   opacity: 0;
-  -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0);
-  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0);
+  -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=$opacity * 100);
+  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=$opacity * 100);
+  -webkit-transform: scale(0.01);
+  -moz-transform: scale(0.01);
+  -ms-transform: scale(0.01);
+  -o-transform: scale(0.01);
   transform: scale(0.01);
+  -webkit-transition: all 1s;
+  -moz-transition: all 1s;
+  -ms-transition: all 1s;
+  -o-transition: all 1s;
   transition: all 1s;
+  -webkit-transform-origin: 95% 95%;
+  -moz-transform-origin: 95% 95%;
+  -ms-transform-origin: 95% 95%;
+  -o-transform-origin: 95% 95%;
   transform-origin: 95% 95%; }
 
 /*# sourceMappingURL=index.css.map */
