@@ -47,7 +47,7 @@ $toolbar-size: 52px;
     &:before {
       content: "\e903";
     }
-    &:before {
+    &:after {
       content: '公众帐号';
     }
   }
@@ -57,7 +57,7 @@ $toolbar-size: 52px;
     &:before {
       content: '\e901';
     }
-    &:before {
+    &:after {
       content: '意见反馈';
     }
   }
@@ -72,7 +72,7 @@ $toolbar-size: 52px;
     &:before {
       content: '\e902';
     }
-    &:before {
+    &:after {
       content: 'App下载';
     }
   }
@@ -82,7 +82,7 @@ $toolbar-size: 52px;
     &:before {
       content: '\e900';
     }
-    &:before {
+    &:after {
       content: '返回顶部';
     }
   }
