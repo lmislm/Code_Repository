@@ -1,5 +1,6 @@
 ## sass和Require.js
-
+##### index.scss中引入的scss文件不同，
+- 只能查看伪类实现效果，具体的Git到本地或其他方法即可
 #### 准备
 下载 [koala软件][1]
 webstorm配置scss

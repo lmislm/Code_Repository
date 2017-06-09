@@ -3,7 +3,7 @@ $toolbar-size: 52px;
 .toolbar {
   position: fixed;
   left: 50%;
-  bottom: 5px;
+  bottom: 2%;
   margin-left: -$toolbar-size / 2;
 }
 .toolbar-item {
@@ -21,6 +21,10 @@ $toolbar-size: 52px;
       &:after {
         top: 0;
       }
+    }
+    &:after {
+        @include opacity(1);
+        @include scale(1);
     }
   }
   &:after {
@@ -44,21 +48,17 @@ $toolbar-size: 52px;
     background-position: 0 0;
   }
   .toolbar-btn {
-    &:before {
-      content: "\e903";
-    }
+    @extend .icon-wechat; //继承
     &:after {
-      content: '公众帐号';
+      content: '公众\A帐号';
     }
   }
 }
 .toolbar-item-feedback {
   .toolbar-btn {
-    &:before {
-      content: '\e901';
-    }
+    @extend .icon-commenting;
     &:after {
-      content: '意见反馈';
+      content: '意见\A反馈';
     }
   }
 }
@@ -69,73 +69,53 @@ $toolbar-size: 52px;
     background-position: 0 -222px;
   }
   .toolbar-btn {
-    &:before {
-      content: '\e902';
-    }
+    @extend .icon-mobile;
     &:after {
-      content: 'App下载';
+      content: 'App\A下载';
     }
   }
 }
 .toolbar-item-top {
   .toolbar-btn {
-    &:before {
-      content: '\e900';
-    }
+    @extend .icon-arrow-up;
     &:after {
-      content: '返回顶部';
+      content: "返回\A顶部";
     }
   }
 }
 .toolbar-btn {
-  position: absolute;
-  left: 0;
-  top: 0;
-  width: $toolbar-size;
-  height: $toolbar-size;
-  overflow: hidden;
-
-  font-family: 'icomoon' !important;
-  speak: none;
-  font-style: normal;
-  font-weight: normal;
-  font-variant: normal;
-  text-transform: none;
-  line-height: 1;
-
-  /* Better Font Rendering =========== */
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-
-  &:before { //icon
-   content: '';
-    position: absolute;
-    left: 0;
-    top: 0;
+  &, &:before, &:after {
     width: $toolbar-size;
     height: $toolbar-size;
-    background-color: #d0d6d9;
-    font-size: 30px;
+
+    position: absolute;
+    left: 0;
+  }
+  &:before, &:after {
+    content: '';
     color: #fff;
     text-align: center;
+  }
+  top: 0;
+  overflow: hidden;
+
+  @extend [class^="icon-"];
+
+  &:before { //icon
+    top: 0;
+    background-color: #d0d6d9;
+    font-size: 30px;
     line-height: $toolbar-size;
     @include transition(top 1s);
   }
   &:after { //text
-    content: '';
-    position: absolute;
-    left: 0;
     top: $toolbar-size;
-    width: $toolbar-size;
-    height: $toolbar-size;
     background-color: #98a1a6;
     font-size: 12px;
-    color: #fff;
-    text-align: center;
     line-height: 1.2;
     padding-top: 12px;
     @include transition(top 1s);
-    @include transition(top 1s);
+    white-space: pre;
   }
 }
 
