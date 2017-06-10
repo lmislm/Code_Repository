@@ -4,15 +4,11 @@
     <bookmark url="file://$PROJECT_DIR$/js/RatingBar/index-0.0.1.html" line="66" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c15587f2-fd3b-4b96-8d5a-214465b7c3a3" name="Default" comment="粗心bug :mountain_bicyclist:">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/js/scrollto.js" />
+    <list default="true" id="c15587f2-fd3b-4b96-8d5a-214465b7c3a3" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar/js/backtop.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sidebar/README.md" afterPath="$PROJECT_DIR$/css/sidebar/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sidebar/css/_toolbar_pseudo.scss" afterPath="$PROJECT_DIR$/css/sidebar/css/_toolbar_pseudo.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sidebar/css/index.css" afterPath="$PROJECT_DIR$/css/sidebar/css/index.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sidebar/css/index.css.map" afterPath="$PROJECT_DIR$/css/sidebar/css/index.css.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sidebar/index-BeforeAfter.html" afterPath="$PROJECT_DIR$/css/sidebar/index-BeforeAfter.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sidebar/js/main.js" afterPath="$PROJECT_DIR$/css/sidebar/js/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sidebar/js/scrollto.js" afterPath="$PROJECT_DIR$/css/sidebar/js/scrollto.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -30,32 +26,34 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/sidebar/css/index.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index-BeforeAfter.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/sidebar/index-BeforeAfter.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3025">
-              <caret line="121" column="14" lean-forward="false" selection-start-line="121" selection-start-column="14" selection-end-line="121" selection-end-column="14" />
+            <state relative-caret-position="1700">
+              <caret line="68" column="14" lean-forward="false" selection-start-line="68" selection-start-column="14" selection-end-line="68" selection-end-column="14" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/sidebar/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="26" column="6" lean-forward="true" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
+            <state relative-caret-position="500">
+              <caret line="20" column="19" lean-forward="false" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="backtop.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/sidebar/js/backtop.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="40" column="22" lean-forward="false" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
+              <folding>
+                <element signature="e#49#62#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -63,39 +61,8 @@
       <file leaf-file-name="scrollto.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/sidebar/js/scrollto.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="11" column="50" lean-forward="false" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/flex_Ex/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" column="46" lean-forward="false" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_toolbar_pseudo.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/sidebar/css/_toolbar_pseudo.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="850">
-              <caret line="34" column="17" lean-forward="false" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_toolbar.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/sidebar/css/_toolbar.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1250">
-              <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
-              <caret line="50" column="1" lean-forward="false" selection-start-line="50" selection-start-column="1" selection-end-line="50" selection-end-column="1" />
+            <state relative-caret-position="325">
+              <caret line="13" column="44" lean-forward="true" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
               <folding />
             </state>
           </provider>
@@ -123,6 +90,7 @@
       <find>transiton</find>
       <find>transition</find>
       <find>mixin</find>
+      <find>checkPosition</find>
     </findStrings>
     <dirStrings>
       <dir>E:\html_web_work\Ex_2017\css\sidebar</dir>
@@ -175,11 +143,12 @@
         <option value="$PROJECT_DIR$/css/sidebar/index-icon.html" />
         <option value="$PROJECT_DIR$/css/sidebar/css/_toolbar_icon.scss" />
         <option value="$PROJECT_DIR$/css/sidebar/css/index.scss" />
-        <option value="$PROJECT_DIR$/css/sidebar/css/_toolbar_pseudo.scss" />
         <option value="$PROJECT_DIR$/css/sidebar/README.md" />
         <option value="$PROJECT_DIR$/css/sidebar/index-BeforeAfter.html" />
-        <option value="$PROJECT_DIR$/css/sidebar/js/main.js" />
+        <option value="$PROJECT_DIR$/css/sidebar/css/_toolbar_pseudo.scss" />
         <option value="$PROJECT_DIR$/css/sidebar/js/scrollto.js" />
+        <option value="$PROJECT_DIR$/css/sidebar/js/main.js" />
+        <option value="$PROJECT_DIR$/css/sidebar/js/backtop.js" />
       </list>
     </option>
   </component>
@@ -193,9 +162,10 @@
     <handled-path value="$PROJECT_DIR$/css/sidebar/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="646" />
-    <option name="width" value="697" />
-    <option name="height" value="735" />
+    <option name="x" value="535" />
+    <option name="y" value="13" />
+    <option name="width" value="688" />
+    <option name="height" value="682" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -212,7 +182,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -282,6 +251,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -454,7 +424,8 @@
       <workItem from="1496740755212" duration="674000" />
       <workItem from="1496813461042" duration="10736000" />
       <workItem from="1496911498102" duration="9804000" />
-      <workItem from="1496980533402" duration="614000" />
+      <workItem from="1496980533402" duration="7542000" />
+      <workItem from="1497088011389" duration="20000" />
     </task>
     <task id="LOCAL-00001" summary="magnify-from-muke">
       <created>1496067803310</created>
@@ -610,11 +581,18 @@
       <option name="project" value="LOCAL" />
       <updated>1496912902481</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="回到顶部Js出场 :smile:">
+      <created>1496983629495</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1496983629495</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="125940000" />
+    <option name="totallyTimeSpent" value="132888000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -626,15 +604,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="646" y="0" width="697" height="735" extended-state="0" />
+    <frame x="535" y="13" width="688" height="682" extended-state="0" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20182094" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" x="720" y="290" width="177" height="415" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3277027" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3310811" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22615385" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" x="720" y="290" width="177" height="415" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32612312" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294509" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.327787" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1891892" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30983606" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30948418" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36321485" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -706,7 +684,8 @@
     <MESSAGE value="修改bug，无法hover" />
     <MESSAGE value="伪类方法before和after" />
     <MESSAGE value="粗心bug :mountain_bicyclist:" />
-    <option name="LAST_COMMIT_MESSAGE" value="粗心bug :mountain_bicyclist:" />
+    <MESSAGE value="回到顶部Js出场 :smile:" />
+    <option name="LAST_COMMIT_MESSAGE" value="回到顶部Js出场 :smile:" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -715,7 +694,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/demo/table.html" />
     <entry file="file://$PROJECT_DIR$/demo/calendar.html" />
     <entry file="file://$PROJECT_DIR$/js/magnify/magnify-放大镜.html" />
     <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.505/jqzoom.js" />
@@ -956,7 +934,6 @@
         <state relative-caret-position="1250">
           <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
           <caret line="50" column="1" lean-forward="false" selection-start-line="50" selection-start-column="1" selection-end-line="50" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -964,7 +941,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
           <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -975,50 +951,59 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/sidebar/css/_toolbar_pseudo.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="850">
-          <caret line="34" column="17" lean-forward="false" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/sidebar/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="9" column="14" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/sidebar/css/_toolbar_pseudo.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="10" lean-forward="false" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/flex_Ex/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
+        <state relative-caret-position="119">
           <caret line="5" column="46" lean-forward="false" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sidebar/index-BeforeAfter.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3025">
-          <caret line="121" column="14" lean-forward="false" selection-start-line="121" selection-start-column="14" selection-end-line="121" selection-end-column="14" />
+        <state relative-caret-position="1700">
+          <caret line="68" column="14" lean-forward="false" selection-start-line="68" selection-start-column="14" selection-end-line="68" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sidebar/js/scrollto.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="50" lean-forward="false" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
+        <state relative-caret-position="325">
+          <caret line="13" column="44" lean-forward="true" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sidebar/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="26" column="6" lean-forward="true" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
+        <state relative-caret-position="500">
+          <caret line="20" column="19" lean-forward="false" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/sidebar/js/backtop.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="40" column="22" lean-forward="false" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
+          <folding>
+            <element signature="e#49#62#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
