@@ -4,131 +4,9 @@
     <bookmark url="file://$PROJECT_DIR$/js/RatingBar/index-0.0.1.html" line="66" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c15587f2-fd3b-4b96-8d5a-214465b7c3a3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/.npminstall.done" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/AUTHORS.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/dist/core.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/dist/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/dist/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/dist/jquery.min.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/dist/jquery.slim.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/dist/jquery.slim.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/dist/jquery.slim.min.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/external/sizzle/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/external/sizzle/dist/sizzle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/external/sizzle/dist/sizzle.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/external/sizzle/dist/sizzle.min.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/.eslintrc.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/ajax.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/ajax/jsonp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/ajax/load.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/ajax/parseXML.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/ajax/script.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/ajax/var/location.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/ajax/var/nonce.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/ajax/var/rquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/ajax/xhr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/attributes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/attributes/attr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/attributes/classes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/attributes/prop.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/attributes/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/attributes/val.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/callbacks.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/core.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/core/DOMEval.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/core/access.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/core/init.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/core/nodeName.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/core/parseHTML.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/core/ready-no-deferred.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/core/ready.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/core/readyException.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/core/stripAndCollapse.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/core/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/core/var/rsingleTag.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/css.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/css/addGetHookIf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/css/adjustCSS.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/css/curCSS.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/css/hiddenVisibleSelectors.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/css/showHide.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/css/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/css/var/cssExpand.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/css/var/getStyles.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/css/var/isHiddenWithinTree.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/css/var/rmargin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/css/var/rnumnonpx.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/css/var/swap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/data/Data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/data/var/acceptData.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/data/var/dataPriv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/data/var/dataUser.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/deferred.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/deferred/exceptionHook.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/deprecated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/dimensions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/effects.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/effects/Tween.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/effects/animatedSelector.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/event.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/event/ajax.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/event/alias.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/event/focusin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/event/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/event/trigger.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/exports/amd.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/exports/global.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/manipulation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/manipulation/_evalUrl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/manipulation/buildFragment.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/manipulation/getAll.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/manipulation/setGlobalEval.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/manipulation/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/manipulation/var/rcheckableType.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/manipulation/var/rscriptType.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/manipulation/var/rtagName.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/manipulation/wrapMap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/offset.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/queue.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/queue/delay.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/selector-native.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/selector-sizzle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/selector.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/serialize.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/traversing.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/traversing/findFilter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/traversing/var/dir.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/traversing/var/rneedsContext.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/traversing/var/siblings.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/var/ObjectFunctionString.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/var/arr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/var/class2type.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/var/concat.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/var/document.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/var/documentElement.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/var/fnToString.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/var/getProto.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/var/hasOwn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/var/indexOf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/var/pnum.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/var/push.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/var/rcssNum.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/var/rnothtmlwhite.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/var/slice.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/var/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/var/toString.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/node_modules/.3.2.1@jquery/src/wrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/img-reloading/package.json" />
+    <list default="true" id="c15587f2-fd3b-4b96-8d5a-214465b7c3a3" name="Default" comment="没有预加载">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/img-reloading/index.html" afterPath="$PROJECT_DIR$/js/img-reloading/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -149,8 +27,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/img-reloading/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="64" column="43" lean-forward="true" selection-start-line="63" selection-start-column="24" selection-end-line="64" selection-end-column="43" />
+            <state relative-caret-position="130">
+              <caret line="74" column="0" lean-forward="true" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -253,9 +131,10 @@
     <handled-path value="$PROJECT_DIR$/js/sidebar/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="676" />
-    <option name="width" value="697" />
-    <option name="height" value="735" />
+    <option name="x" value="381" />
+    <option name="y" value="42" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -508,7 +387,8 @@
       <workItem from="1496911498102" duration="9804000" />
       <workItem from="1496980533402" duration="7542000" />
       <workItem from="1497088011389" duration="667000" />
-      <workItem from="1497183706266" duration="4940000" />
+      <workItem from="1497183706266" duration="6544000" />
+      <workItem from="1497271671246" duration="38000" />
     </task>
     <task id="LOCAL-00001" summary="magnify-from-muke">
       <created>1496067803310</created>
@@ -685,11 +565,18 @@
       <option name="project" value="LOCAL" />
       <updated>1497185221754</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="没有预加载">
+      <created>1497189010084</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1497189010084</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="138475000" />
+    <option name="totallyTimeSpent" value="140117000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -701,9 +588,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="676" y="0" width="697" height="735" extended-state="0" />
+    <frame x="381" y="42" width="1382" height="744" extended-state="0" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19575115" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" x="720" y="290" width="177" height="415" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19568452" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" x="720" y="290" width="177" height="415" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32612312" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294509" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.327787" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -784,7 +671,8 @@
     <MESSAGE value="回到顶部Js出场 :smile:" />
     <MESSAGE value="封装成JQuery插件" />
     <MESSAGE value="修改结构" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改结构" />
+    <MESSAGE value="没有预加载" />
+    <option name="LAST_COMMIT_MESSAGE" value="没有预加载" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1051,7 +939,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="9" column="14" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1073,7 +960,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1700">
           <caret line="68" column="14" lean-forward="false" selection-start-line="68" selection-start-column="14" selection-end-line="68" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1081,7 +967,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="325">
           <caret line="13" column="44" lean-forward="false" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1089,7 +974,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="500">
           <caret line="20" column="19" lean-forward="false" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1097,9 +981,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
           <caret line="40" column="31" lean-forward="false" selection-start-line="40" selection-start-column="31" selection-end-line="40" selection-end-column="31" />
-          <folding>
-            <element signature="e#49#62#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1107,22 +988,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/img-reloading/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="3" column="8" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="16" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/js/img-reloading/js/main.js" />
     <entry file="file://$PROJECT_DIR$/js/img-reloading/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="64" column="43" lean-forward="true" selection-start-line="63" selection-start-column="24" selection-end-line="64" selection-end-column="43" />
+        <state relative-caret-position="130">
+          <caret line="74" column="0" lean-forward="true" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
           <folding />
         </state>
       </provider>
