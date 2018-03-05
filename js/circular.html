@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title></title>
+		<script type="text/javascript" src="js/three.js" ></script>
+		<script type="text/javascript">
+			function init(){
+				var renderer = new THREE.WebGLRenderer();
+				renderer.setSize(400,300);
+				//renderer the canvas to body
+				document.getElementsByTagName('body')[0].appendChild(renderer.domElement);
+				//background
+				renderer.setClearColor(0x000000);
+				
+				//scene
+				var scene = new THREE.Scene();
+				//OrthographicCamera Camera 正交Camera
+//				var camera = new THREE.OrthographicCamera(-2,2,1.5,-1.5,1,10);
+				//perspecttive camera 透视camera
+//				fov是你人离物体的距离视角，fov越大，离物体越远，"fov 是视景体竖直方向上的张角（是角度制而非弧度制）"
+//				THREE.PerspectiveCamera(fov,)
+				var camera = new THREE.PerspectiveCamera(100,400/300,1,10);
+				//仰望正方体 look up the cube,need from (0,0,0)look,so add lookat()
+				camera.position.set(4,-3,5);
+				camera.lookAt(new THREE.Vector3(0,0,0))
+				scene.add(camera);		
+				
+				
+				//cube x=y=z=1 ,wireframe
+				//TorusGeometry(radius,tube,radialSegments,tubularSegments)(圆环半径，管道半径，分段数)
+				var cube = new THREE.Mesh(new THREE.TorusGeometry(3,1,12,19),
+					new THREE.MeshBasicMaterial({
+//						emissive: 0xff000, 材质自发光
+						color: 0x00ff00,
+						wireframe: true
+					})
+				);
+				scene.add(cube);
+				
+				//renderer
+				renderer.render(scene,camera);
+			}
+			
+		</script>
+	</head>
+	<body onload="init()">
+		<canvas  width="400px" height="300px"></canvas>
+	</body>
+</html>
