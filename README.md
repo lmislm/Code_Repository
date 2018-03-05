@@ -12,17 +12,30 @@
 | | three.js_basicEx | |
 
 
-├─css
-│  ├─change_li_color
-│  ├─CSS_Sprite
-│  │  ├─coin
-│  │  └─love-firework
-│  └─flex_Ex
-├─demo
-│  └─simple-homePages
-└─js
-    ├─img-reloading
-    ├─magnify
-    ├─RatingBar
-    ├─sidebar
-    └─three.js_basicEx
+> ├─css
+
+> │  ├─change_li_color
+
+> │  ├─CSS_Sprite
+
+> │  │  ├─coin
+
+> │  │  └─love-firework
+
+> │  └─flex_Ex
+
+> ├─demo
+
+> │  └─simple-homePages
+
+>└─js
+
+>    ├─img-reloading
+
+>    ├─magnify
+
+>    ├─RatingBar
+
+>    ├─sidebar
+
+>    └─three.js_basicEx
