@@ -1,3 +1,4 @@
-# Ex_2017
-### 2017 一些练手的小东西
+# Code_Respository
+### 一些小代码片段
 - 分为css和js类,分别为侧重css和js
+- demo内为简单的demo
