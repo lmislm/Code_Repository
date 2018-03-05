@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>coin</title>
+    <style>
+    .coin {
+        margin: 15% auto ;
+        width: 80px;
+        height: 80px;
+        /*background-image: url("https://ooo.0o0.ooo/2017/05/19/591e5fb99cbc2.png");*/
+        background: url("https://ooo.0o0.ooo/2017/05/19/591e5fb99cbc2.png");
+        background-color: aqua;
+C        /*固定位置显示一个小图片*/
+        /*background-position: 0px 0px;*/
+    }
+    .coin:hover {
+        animation: coin 2s infinite steps(16, end);
+    }
+    @keyframes coin {
+        from {
+            background-position: 0px 0px;
+        }
+        to{
+            background-position: -1280px 0px;
+            /*根据 80*steps中的16得出1280*/
+        }
+    }
+    </style>
+</head>
+<body>
+<div class="coin">
+
+</div>
+</body>
+</html>
