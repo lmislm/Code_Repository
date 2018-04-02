@@ -1,41 +1,42 @@
 # Code_Respository
+
 ### 一些小代码片段
-- 分为css和js类,分别为侧重css和js
-- demo内为简单的demo
 
-|  css   |  js   |  demo   |
-| --- | --- | --- |
-| CSS_Sprite    |  RatingBar   |   simple-homePages  |
-|   change_li_color  |  img-reloading   |     |
-|  flex_Ex   |  magnify   |     |
-|     |  sidebar   |     |
-| | three.js_basicEx | |
+* 分为 css 和 js 类,分别为侧重 css 和 js
+* demo 内为简单的 demo
 
+| css             | js               | demo             |
+| --------------- | ---------------- | ---------------- |
+| CSS_Sprite      | RatingBar        | simple-homePages |
+| change_li_color | img-reloading    |                  |
+| flex_Ex         | magnify          |                  |
+|                 | sidebar          |                  |
+|                 | three.js_basicEx |                  |
 
 > ├─css
 
-> │  ├─change_li_color
+> │ ├─change_li_color
 
-> │  ├─CSS_Sprite
+> │ ├─CSS_Sprite
 
-> │  │  ├─coin
+> │ │ ├─coin
 
-> │  │  └─love-firework
+> │ │ └─love-firework
 
-> │  └─flex_Ex
+> │ └─flex_Ex
 
 > ├─demo
 
-> │  └─simple-homePages
+> │ └─simple-homePages
 
->└─js
+> └─js
 
->    ├─img-reloading
+> ├─img-reloading
 
->    ├─magnify
+> ├─magnify
 
->    ├─RatingBar
+> ├─RatingBar
 
->    ├─sidebar
+> ├─sidebar
 
->    └─three.js_basicEx
+> └─three.js_basicEx
