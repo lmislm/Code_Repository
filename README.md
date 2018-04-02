@@ -7,7 +7,7 @@
 
 | css             | js               | demo             |
 | --------------- | ---------------- | ---------------- |
-| CSS_Sprite      | RatingBar        | simple-homePages |
+| CSS_Sprite      | RatingBar-       | simple-homePages |
 | change_li_color | img-reloading    |                  |
 | flex_Ex         | magnify          |                  |
 |                 | sidebar          |                  |
