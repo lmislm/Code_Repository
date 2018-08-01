@@ -75,7 +75,7 @@ p2.then(value => {
 }).then(value => { console.log('p2 then then then value：' + value) }, err => { console.log('p2 then then then err：' + err) }) */
 
 // Promise.resolve()
-let p1 = Promise.resolve(1)
+/* let p1 = Promise.resolve(1)
 let p2 = Promise.resolve(p1)
 let p3 = new Promise((resolve, reject) => resolve(1))
 let p4 = new Promise((resolve, reject) => resolve(p1))
@@ -88,3 +88,21 @@ console.log(p3 === p4)
 p4.then(value => console.log('p4=' + value))
 p2.then(value => console.log('p2=' + value))
 p1.then(value => console.log('p1=' + value))
+ */
+
+ // resolve vs reject
+let p1 = new Promise((resolve, reject) => { resolve(Promise.resolve('resolve')) })
+let p2 = new Promise((resolve, reject) => { resolve(Promise.reject('reject')) })
+let p3 = new Promise((resolve, reject) => { reject(Promise.resolve('resolve')) })
+p1.then(
+  function fulfilled(value) { console.log('fulfilled_1：' + value) },
+  function rejected(err) { console.log('rejected_1：' + err) }
+)
+p2.then(
+  function fulfilled(value) { console.log('fulfilled_2：' + value) },
+  function rejected(err) { console.log('rejected_2：' + err) }
+)
+p3.then(
+  function fulfilled(value) { console.log('fulfilled_3：' + value) },
+  function rejected(err) { console.log('rejected_3：' + err) }
+)
